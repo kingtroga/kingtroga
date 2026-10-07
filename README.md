@@ -1,69 +1,50 @@
-<h1 align="center">Hi 👋, I'm Tari</h1>
+Hi 👋, I'm Tari Yekorogha
 
-Data Extraction Specialist | Full Stack Developer
+### Full Stack Developer & AI Engineer | Data Extraction Specialist
 
-### Major Strengths 💪
+I build scalable backends, automate complex workflows, and engineer AI-powered systems. From creating algorithmic trading bots and AI video editing platforms to contributing to major open-source AI frameworks, I thrive on solving hard engineering problems.
 
-- <b>Backend</b> - Django, ASP.NET
-- <b>Frontend</b> - TailwindCSS, BootStrap, React
-- <b>Mobile</b> - Kivy
-- <b>Cloud</b> - Docker
-- <b>Data Extraction</b> - Python (Requests, Scrapy, BeautifulSoup, Selenium, Parsel, Scrapy Splash), Excel, R, SQL, APIs, Proxies.
-- <b>Misc</b> - C, C++ (School Work)
+---
 
-  
-### Looking for me! 📫
+### 🚀 What I'm Currently Working On
+- **[BulkForm](https://www.bulkform.app)**: Founder & Solo Developer of a SaaS platform that automates bulk form processing. Built with FastAPI, Celery, Redis, Django, and Tailwind.
+- **Automated Trading Systems (TBTFW Ventures)**: Engineering a fully automated algorithmic live trading engine integrating market indicators, backtesting frameworks, and live broker data execution.
+- **[Everything Wallpaper Interior](https://www.everythingwallpaperinterior.com)**: Full-stack storefront and internal staff portal built on Django and TailwindCSS with secure Paystack payments.
 
-[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
-)](https://x.com/whoisatary)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
-)](https://www.instagram.com/atari.can/)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-)](https://www.linkedin.com/in/tari-yekorogha/)
-[![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white
-)](https://medium.com/@tariyekorogha)
-[![Youtube Badge](https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white
-)](https://www.youtube.com/@tariyekorogha4980)
+### 🧠 Highlights & Experience
+- **Co-Founder & Lead AI Engineer @ FootageFlow**: Built an AI-powered video editing pipeline turning raw footage into structured stories using GPT-4, FFmpeg, and Python (FastAPI/Celery). Sped up rendering times by 10x with custom chained FFmpeg transitions.
+- **Open Source Contributor**: Core contributor for **FalkorDB** integrations in **[LangChain](https://github.com/langchain-ai/langchain)** (VectorStore, Chat Memory) and **[DSPy](https://github.com/stanfordnlp/dspy)** (Retriever class).
+- **Data Extraction & Web Scraping**: Developed custom Python pipelines (BeautifulSoup, Selenium, Requests) to extract, scrape, and enrich data across tens of thousands of companies and platforms like LinkedIn Sales Navigator.
 
-#### Technologies and Stack ⚡️
+---
 
-![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C/C++ Badge](https://img.shields.io/badge/C/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C# Badge](https://img.shields.io/badge/C%23-purple)
+### 💻 Technologies & Stack
 
+**Languages:** Python, C#, SQL, JavaScript, Dart  
+**Backend & Frameworks:** Django, FastAPI, ASP.NET, Celery, REST APIs  
+**Frontend & Mobile:** Tailwind CSS, React, Kivy, Flutter  
+**Data & DevOps:** PostgreSQL, Redis, Docker, Dokploy, Linux  
+**AI & Data Extraction:** LangChain, DSPy, OpenAI API, Selenium, BeautifulSoup, Scrapy
 
+---
 
-![Django Badge](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+### 📈 GitHub Stats
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kingtroga&show_icons=true&theme=dark" alt="kingtroga's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kingtroga&layout=compact&theme=dark" alt="Top Languages" />
+</div>
 
+---
 
+### 📫 Let's Connect!
 
-![MySQL Badge](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis Badge](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![PostgresSql Badge](https://img.shields.io/badge/PostgresSql-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01cb3c617ddbf2a8a8)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tari-yekorogha/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/whoisatary)
+[![Linktree](https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/atary)
 
-![REST Badge](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=swagger&logoColor=white)
-
-
-![Docker Badge](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-
-
-#### Work 💼
-
-[![Website Badge](https://img.shields.io/badge/Portfolio_Website-232C2E?style=for-the-badge&logo=atandt&logoColor=white
-)](https://upwork.com/freelancers/tariy)
-
-#### Profile Visits 🕵️‍♂️
-
-![visitors](https://komarev.com/ghpvc/?username=kingtroga&style=for-the-badge)
-
-#### Github Stats 📈
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=kingtroga&count_private=true&theme=dark)
- 
+<br/>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=kingtroga&style=flat-square&color=blue" alt="Profile views" />
+</div>
